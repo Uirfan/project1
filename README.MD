@@ -53,7 +53,12 @@ To-do list:
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+* Create an account as an employee
+* create a reimbursement
+* log out and create and account as an admin
+* select the created reimbursement to accept or reject 
+![project1](https://user-images.githubusercontent.com/90926092/149560486-c3417a83-e6d4-4042-ad3c-04c645db8c24.png)
+
 
 ## Contributors
 
